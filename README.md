@@ -13,7 +13,7 @@
  In this group project, we had develop an object detection model for identifying various road conditions and turns in images captured on roads in Gilgit. The primary goal is to enable the model to detect right turns, left turns, straight roads, and unexpected road conditions such as landslides. This project is designed to provide hands-on experience in data gathering, data labeling, and the implementation of object detection models, specifically YOLO (You Only Look Once)
 
 # Phase 1: Data Collection:
-I have collected diverse data of road images from Gilgit and from other areas. These images had covered a variety of road types. There are 5 classes (right turn, left turn, unexpected, straight and damaged), per class there are 10 or more than 10 images. total we have gathered 57 images.
+I have collected diverse data of road images from Gilgit and from other areas. These images had covered a variety of road types. There are 5 classes (right turn, left turn, unexpected, straight and damaged), per class there are 10 or more than 10 images. total we have collected 57 images.
 
 # Phase 2: Data Labeling:
 The code provided is part of a broader project that involves the implementation of object detection using the YOLOv5 algorithm. In Phase 2, which is not explicitly shown in the code, the data labeling process is essential for training the object detection model. The code assumes that this phase has already been completed, and a labeled dataset is available. The dataset is described as containing images with labels for different road conditions, such as right turn, left turn, straight road, and unexpected road conditions (e.g., landslides).
